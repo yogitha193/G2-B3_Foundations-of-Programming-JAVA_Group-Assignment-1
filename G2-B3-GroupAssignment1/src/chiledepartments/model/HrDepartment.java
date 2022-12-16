@@ -7,7 +7,7 @@ public class HrDepartment extends SuperDepartment  implements HrDept
 {
 	public String departmentName()
 	{
-		return "Welcom to Hr Department";
+		return "Welcome to Hr Department";
 	}
 	
 	public String getTodaysWork()
